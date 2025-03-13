@@ -1,13 +1,5 @@
 # Advanced Programming
 
-This repository contains various programming exercises, algorithms, and projects focused on advanced programming concepts.
+Some fun scripts I've written, and some submissions for class.
 
-## Contents
-
-- Implementation of data structures like hashmaps
-- Design patterns like Command Pattern
-- Algorithms including Traveling Salesman Problem
-- Various Python utilities and scripts
-- Testing examples
-
-This repository serves as a collection of code examples and exercises for learning advanced programming concepts. 
+Thought i'd share them here.
